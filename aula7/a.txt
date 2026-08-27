@@ -1,0 +1,98 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 9274-DB15
+
+ Pasta de C:\dev\php\aula7
+
+27/08/2026  15:07    <DIR>          .
+27/08/2026  15:03    <DIR>          ..
+27/08/2026  15:07                 0 a.txt
+27/08/2026  15:04               278 bkp.cmd
+27/08/2026  15:04               181 composer.json
+27/08/2026  15:04               598 composer.lock
+27/08/2026  15:05    <DIR>          public
+27/08/2026  15:04               160 server.cmd
+27/08/2026  15:05    <DIR>          src
+27/08/2026  15:04    <DIR>          vendor
+               5 arquivo(s)          1.217 bytes
+
+ Pasta de C:\dev\php\aula7\public
+
+27/08/2026  15:05    <DIR>          .
+27/08/2026  15:07    <DIR>          ..
+27/08/2026  15:04               212 footer.php
+27/08/2026  15:04               593 index.php
+27/08/2026  15:04             2.200 layout.php
+27/08/2026  15:06               161 teste.php
+               4 arquivo(s)          3.166 bytes
+
+ Pasta de C:\dev\php\aula7\src
+
+27/08/2026  15:05    <DIR>          .
+27/08/2026  15:07    <DIR>          ..
+27/08/2026  15:04    <DIR>          Config
+27/08/2026  15:04    <DIR>          Controller
+27/08/2026  15:04    <DIR>          DAO
+27/08/2026  15:05             1.037 Database.php
+27/08/2026  15:04    <DIR>          Model
+27/08/2026  15:04    <DIR>          View
+               1 arquivo(s)          1.037 bytes
+
+ Pasta de C:\dev\php\aula7\src\Config
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:05    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula7\src\Controller
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:05    <DIR>          ..
+27/08/2026  15:04               682 HomeController.php
+               1 arquivo(s)            682 bytes
+
+ Pasta de C:\dev\php\aula7\src\DAO
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:05    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula7\src\Model
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:05    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula7\src\View
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:05    <DIR>          ..
+               0 arquivo(s)              0 bytes
+
+ Pasta de C:\dev\php\aula7\vendor
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:07    <DIR>          ..
+27/08/2026  15:04               748 autoload.php
+27/08/2026  15:04    <DIR>          composer
+               1 arquivo(s)            748 bytes
+
+ Pasta de C:\dev\php\aula7\vendor\composer
+
+27/08/2026  15:04    <DIR>          .
+27/08/2026  15:04    <DIR>          ..
+27/08/2026  15:04               222 autoload_classmap.php
+27/08/2026  15:04               139 autoload_namespaces.php
+27/08/2026  15:04               174 autoload_psr4.php
+27/08/2026  15:04             1.137 autoload_real.php
+27/08/2026  15:04             1.039 autoload_static.php
+01/07/2026  06:24            16.378 ClassLoader.php
+27/08/2026  15:04                69 installed.json
+27/08/2026  15:04               738 installed.php
+27/08/2026  15:04            17.395 InstalledVersions.php
+01/07/2026  06:24             1.070 LICENSE
+27/08/2026  15:04               917 platform_check.php
+              11 arquivo(s)         39.278 bytes
+
+     Total de Arquivos na Lista:
+              23 arquivo(s)         46.128 bytes
+              29 pasta(s)   99.115.679.744 bytes dispon°veis

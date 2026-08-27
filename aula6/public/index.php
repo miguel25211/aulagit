@@ -6,8 +6,7 @@ $controller = new HomeController();
 echo $controller->index();
 echo "<br>";
 $diretorio = ".";
-arquivos=scandir(diretorio);
-
+$arquivos =scandir($diretorio);
 $excluir = ['index.php','footer.php','layout.php'];
 foreach ($arquivos as $arquivo) {
     if (pathinfo($arquivo, PATHINFO_EXTENSION) === 'php' && !in_array($arquivo, $excluir)) {
